@@ -23,3 +23,4 @@ const driversByName = function(drivers) {
     return driverOne.name.localeCompare(driverTwo.name);
   });
 };
+
